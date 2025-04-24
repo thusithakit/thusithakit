@@ -1,4 +1,4 @@
-```<img src="https://www.linkedin.com/in/thusitha-kithuldora-780b4417b/overlay/background-image/" alt="header image" width="500" height="300" />```
+<img src="https://github.com/thusithakit/thusithakit/blob/main/background.jpeg" alt="header image" width="1400" height="350" />
 <h1>Hi 👋, I'm Thusitha Kithuldora</h1>
 <h2>A Passionate Full-Stack Developer from Sri Lanka </h2>
 <p>
